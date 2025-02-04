@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Tiny-Website/static/css/main.af1da695.css",
+    "main.js": "/React-Tiny-Website/static/js/main.74becce6.js",
+    "index.html": "/React-Tiny-Website/index.html",
+    "main.af1da695.css.map": "/React-Tiny-Website/static/css/main.af1da695.css.map",
+    "main.74becce6.js.map": "/React-Tiny-Website/static/js/main.74becce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af1da695.css",
+    "static/js/main.74becce6.js"
+  ]
+}
